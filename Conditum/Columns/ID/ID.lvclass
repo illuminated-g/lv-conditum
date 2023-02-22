@@ -46,6 +46,15 @@
 	<Item Name="Public" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Data Types" Type="Folder"/>
+		<Item Name="Copy Value.vi" Type="VI" URL="../Copy Value.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;J!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$J!=!!?!!!J$E.P&lt;G2J&gt;(6N,GRW&lt;'FC$5.P&lt;(6N&lt;H-O&lt;(:M;7)+351O&lt;(:D&lt;'&amp;T=Q!'351A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$J!=!!?!!!L$E.P&lt;G2J&gt;(6N,GRW&lt;'FC$5.P&lt;(6N&lt;H-O&lt;(:M;7)-6(FQ:3ZM&gt;G.M98.T!!2'=G^N!!!Y1(!!(A!!+1Z$&lt;WZE;82V&lt;3ZM&gt;GRJ9AV$&lt;WRV&lt;7ZT,GRW&lt;'FC#EF%,GRW9WRB=X-!"5F%)'FO!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"Q!)!A!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!"!!!!#1!!!!!!%!#1!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1351098880</Property>
+		</Item>
 		<Item Name="Create.vi" Type="VI" URL="../Create.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$3!!!!"!!%!!!!/E"Q!"Y!!#E/1W^O:'FU&gt;7UO&lt;(:M;7).1W^M&gt;7VO=SZM&gt;GRJ9AJ*2#ZM&gt;G.M98.T!!:*2#"P&gt;81!!$A!]1!!!!!!!!!#$E.P&lt;G2J&gt;(6N,GRW&lt;'FC$56O&gt;'FU?3"*2#ZD&gt;'Q!%U!%!!F&amp;&lt;H2J&gt;(EA351!6!$Q!!Q!!!!!!!!!!1!!!!!!!!!!!!!!!!!#!!!#!!"Y!!!!!!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!%!!!!!!!!!!!!1!$!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>

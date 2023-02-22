@@ -15,8 +15,8 @@
 	<Item Name="Types" Type="Folder">
 		<Item Name="Boolean.lvclass" Type="LVClass" URL="../Boolean/Boolean.lvclass"/>
 		<Item Name="Double.lvclass" Type="LVClass" URL="../Double/Double.lvclass"/>
+		<Item Name="Entity C.lvclass" Type="LVClass" URL="../Entity/Entity C.lvclass"/>
 		<Item Name="Entity Collection.lvclass" Type="LVClass" URL="../Entity Collection/Entity Collection.lvclass"/>
-		<Item Name="Entity.lvclass" Type="LVClass" URL="../Entity/Entity.lvclass"/>
 		<Item Name="ID.lvclass" Type="LVClass" URL="../ID/ID.lvclass"/>
 		<Item Name="Integer.lvclass" Type="LVClass" URL="../Integer/Integer.lvclass"/>
 		<Item Name="String.lvclass" Type="LVClass" URL="../String/String.lvclass"/>

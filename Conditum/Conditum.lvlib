@@ -8,8 +8,12 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Data Types" Type="Folder">
 		<Item Name="Attributes.ctl" Type="VI" URL="../Attributes.ctl"/>
+		<Item Name="Column Info.ctl" Type="VI" URL="../Column Info.ctl"/>
 		<Item Name="Entity ID.ctl" Type="VI" URL="../Entity ID.ctl"/>
 		<Item Name="Entity State.ctl" Type="VI" URL="../Entity State.ctl"/>
+		<Item Name="Flattened Type Info.ctl" Type="VI" URL="../Flattened Type Info.ctl"/>
+		<Item Name="LabVIEW Type.ctl" Type="VI" URL="../LabVIEW Type.ctl"/>
+		<Item Name="Relation Info.ctl" Type="VI" URL="../Columns/Relation/Relation Info.ctl"/>
 		<Item Name="Relation Mapping.ctl" Type="VI" URL="../Relation Mapping.ctl"/>
 	</Item>
 	<Item Name="Columns.lvlib" Type="Library" URL="../Columns/Columns.lvlib"/>
@@ -18,5 +22,6 @@
 	<Item Name="Entity Repository.lvclass" Type="LVClass" URL="../Entity Repository/Entity Repository.lvclass"/>
 	<Item Name="Entity.lvclass" Type="LVClass" URL="../Entity/Entity.lvclass"/>
 	<Item Name="Query Builder.lvclass" Type="LVClass" URL="../Query Builder/Query Builder.lvclass"/>
+	<Item Name="Result Row.lvclass" Type="LVClass" URL="../Result Row/Result Row.lvclass"/>
 	<Item Name="Unit Of Work.lvclass" Type="LVClass" URL="../Unit Of Work/Unit Of Work.lvclass"/>
 </Library>
