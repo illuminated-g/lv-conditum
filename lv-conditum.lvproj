@@ -11,7 +11,6 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Conditum-Example.lvlib" Type="Library" URL="../Conditum-Example/Conditum-Example.lvlib"/>
 		<Item Name="Conditum.lvlib" Type="Library" URL="../Conditum/Conditum.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
