@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2023-02-18 15:35:42" Modified_Date="2023-03-25 22:49:58" Creator="derri" Comments="" ID="672f5a04830ff2435e44043a24d2e9a7">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2023-02-18 15:35:42" Modified_Date="2023-04-01 01:07:17" Creator="derri" Comments="" ID="866eb7c67b35215b6fdb1dbedf56083a">
   <Library_General_Settings>
     <Package_File_Name>IlluminatedG_lib_IG_Conditum_Base</Package_File_Name>
-    <Library_Version>1.0.0.36</Library_Version>
+    <Library_Version>1.0.0.37</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\vip</Library_Output_Folder>
@@ -231,7 +231,7 @@
         <Path>Conditum-Example</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>70DB3CB71A7F2CACCC2432A81B5903D2</GUID>
+      <GUID>C8D1B9F49DAB7CF5212607E704286E28</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -294,7 +294,7 @@
         <Path>Conditum\Entity Collection</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8EE3A4B43D1426B7CB64ECABA6129532</GUID>
+      <GUID>AC6CAE37F406784E3D7E384EAE7AA923</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -343,7 +343,7 @@
         <Path>Conditum-Example\User</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A20DE3E3F776BEC0290D33F6FFE39101</GUID>
+      <GUID>68D8BFB06F3788A13A6C83640018FC63</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -476,7 +476,7 @@
         <Path>Conditum\Columns\Type</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E4B5E5B9006E4F2135583FA960746A91</GUID>
+      <GUID>C09FBA46570ABB067377C2C9FAC17033</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -539,7 +539,7 @@
         <Path>Conditum\Entity\ID.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5EDD5E82059B84F902403E41F7B13E7A</GUID>
+      <GUID>AA6EEA14D236C182A821C939D16CA7CC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -588,7 +588,7 @@
         <Path>Conditum\Columns\Entity Collection\Remove Entity.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3DFD5C63B7DBF465CE8B45712021AD5E</GUID>
+      <GUID>40FA9DDE64F189F5E0B2A90439698C88</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -651,7 +651,7 @@
         <Path>Conditum\Columns\Boolean\Set.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3D4415294D04840DF37204F72BE7EB54</GUID>
+      <GUID>C00E994606B8DA9E88D27E0639680F39</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -714,7 +714,7 @@
         <Path>Conditum\Columns\ID\Set.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BB09223A1C2852FC078E0EB17E69D039</GUID>
+      <GUID>0CDDD478970A866AA9B50B49B2F6AF46</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -777,7 +777,7 @@
         <Path>Conditum\Columns\Integer\Set.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0D00EBFEF7AAB4F4E85F6230AA862575</GUID>
+      <GUID>3070970DB62A9048C37EDDCF013A8523</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -826,7 +826,7 @@
         <Path>Conditum\Columns\Relation\Related To.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B3B091B781C23E41E8EDA0DD9F29D2C3</GUID>
+      <GUID>02739203DC3153663DA8FFDD377AE33C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -889,7 +889,7 @@
         <Path>Conditum\Columns\String\Set.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C74AEFD379D69A081136220579046138</GUID>
+      <GUID>B3A15F9C88F7994006FD067FE1B3EB2D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -952,7 +952,7 @@
         <Path>Conditum\Columns\Text\Set.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9F070F5CA6F4F7AC3A2693CF7C97A3D3</GUID>
+      <GUID>DB03962C7868F3169EF8A6A538316A19</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1015,7 +1015,7 @@
         <Path>Conditum\Columns\Timestamp\Set.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2614F081542457E23D8FB7615A9A398A</GUID>
+      <GUID>51F8CD273FA2E248F254A0205F25A5F4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1106,7 +1106,7 @@
         <Path>Conditum\Columns\Type\Set NULL.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4C32638310F47861659DA358C3E5E350</GUID>
+      <GUID>563283486607971D0493CCDFEF7D65F5</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1141,7 +1141,7 @@
         <Path>Conditum-Example\Game\Definition.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C32D030E82943FA8E5F350FEA3B8B2BE</GUID>
+      <GUID>310C59D4FEC5F956E1665A06BAFAA8E9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1176,7 +1176,7 @@
         <Path>Conditum-Example\User\Definition.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B5C64F0B2B8AC063AB5CF1ACDD42F4A5</GUID>
+      <GUID>E60695EB7969D5A7873F875BBA02CF8A</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -1211,7 +1211,7 @@
         <Path>Conditum</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>76EB78E0F8FE579D86D6F2B11F6C24B2</GUID>
+      <GUID>9FC89BF2370DDACE866A01DAAEA8FC24</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1302,7 +1302,7 @@
         <Path>Conditum\Relation Mapping.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C2094D1F786A3B1EFD1C85EB86E1127C</GUID>
+      <GUID>D4A53B6C37637D3AD6765538FA7BA7C2</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1421,7 +1421,7 @@
         <Path>Conditum\Columns\Type</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>39FA05FF83EE58C917D4F53DA21C80E3</GUID>
+      <GUID>8E74116EB6DCF118EE7B4E0DC205EF96</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1470,7 +1470,7 @@
         <Path>Conditum\Columns\Boolean\Definition.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D6C592B8F904E906DDFD49C6259E66B3</GUID>
+      <GUID>CC48F539C5D28DA254AECA2C8658E24E</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1519,7 +1519,7 @@
         <Path>Conditum\Columns\Integer\Integer Definition.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E66A5478F5F0FE22314BA18F1D0FEF5A</GUID>
+      <GUID>698A7B1D8DE6DD85A90B2E9CE103F0AD</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1568,7 +1568,7 @@
         <Path>Conditum\Columns\Relation\Relation Definition.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3CCCDB5FDD0427FA16C6F0CC81076DD9</GUID>
+      <GUID>6D76B2FCBC1AF88E497D39BE93732FB7</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1617,7 +1617,7 @@
         <Path>Conditum\Columns\String\String Definition.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>805C87361D85440F1D045158948956A1</GUID>
+      <GUID>9C4D0D4E393A85C098B1FCCBB6153523</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1666,7 +1666,7 @@
         <Path>Conditum\Columns\Text\Text Definition.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E12FD6348CA84AACD18D5BCF06D56BC6</GUID>
+      <GUID>3C5FD82C3B911006A8EBC82FC5E0AD2E</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1701,7 +1701,7 @@
         <Path>Conditum\Columns\Timestamp\Definition.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>FD044320CA6E5468A730133BC3E267BF</GUID>
+      <GUID>B752820D978659CF0CBE3C1782B746A3</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1736,7 +1736,7 @@
         <Path>Conditum\Columns\Type\Definition.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0D82C62FFD6B88EA4CEB94D91997AC3A</GUID>
+      <GUID>DF49763615E76CFC3D46A0E92FC90FB7</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
