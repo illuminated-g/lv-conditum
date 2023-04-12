@@ -14,6 +14,7 @@
 		<Item Name="Conditum-Example.lvlib" Type="Library" URL="../Conditum-Example/Conditum-Example.lvlib"/>
 		<Item Name="Conditum.lvlib" Type="Library" URL="../Conditum/Conditum.lvlib"/>
 		<Item Name="NewEntityTemplate.lvclass" Type="LVClass" URL="../NewEntityTemplate/NewEntityTemplate.lvclass"/>
+		<Item Name="Scratchpad.lvlib" Type="Library" URL="../Scratchpad/Scratchpad.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
@@ -48,7 +49,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{3E69EAA6-D687-451B-827A-D10F006311C3}</Property>
 				<Property Name="Bld_removeVIObj" Type="Int">2</Property>
-				<Property Name="Bld_version.build" Type="Int">14</Property>
+				<Property Name="Bld_version.build" Type="Int">15</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
 				<Property Name="Destination[0].path" Type="Path">../lv-conditum-tools/Conditum-Clone</Property>
