@@ -13,11 +13,13 @@
 		<Item Name="Attributes.ctl" Type="VI" URL="../Attributes.ctl"/>
 		<Item Name="Column Info.ctl" Type="VI" URL="../Column Info.ctl"/>
 		<Item Name="Entity ID.ctl" Type="VI" URL="../Entity ID.ctl"/>
+		<Item Name="Entity Persist Groups.ctl" Type="VI" URL="../Entity Persist Groups.ctl"/>
 		<Item Name="Entity State.ctl" Type="VI" URL="../Entity State.ctl"/>
 		<Item Name="Field Type.ctl" Type="VI" URL="../Field Type.ctl"/>
 		<Item Name="Flattened Type Info.ctl" Type="VI" URL="../Flattened Type Info.ctl"/>
 		<Item Name="Relation Info.ctl" Type="VI" URL="../Columns/Relation/Relation Info.ctl"/>
 		<Item Name="Relation Mapping.ctl" Type="VI" URL="../Relation Mapping.ctl"/>
+		<Item Name="Table Persist Group.ctl" Type="VI" URL="../Table Persist Group.ctl"/>
 	</Item>
 	<Item Name="Columns.lvlib" Type="Library" URL="../Columns/Columns.lvlib"/>
 	<Item Name="Database Platform.lvclass" Type="LVClass" URL="../Database Platform/Database Platform.lvclass"/>
